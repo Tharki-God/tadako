@@ -1,20 +1,27 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
-  "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
-  },
+  "id": "dev.tharki.tadako",
+  "name": "tadako",
+  "description": "🤭ANITA MAX WYNN💞",
+  "image": "https://cdn.discordapp.com/attachments/1000955966520557689/1194774485254021171/image.png",
+  "source": "https://github.com/TharkiDev/tadako",
+  "author": [
+    {
+      "name": "Ahlawat",
+      "discordID": "1121961711080050780",
+      "github": "TharkiDev"
+    },
+    {
+      "name": "Bomba",
+      "discordID": "917630027477159986",
+      "github": "zrodevkaan"
+    }
+  ],
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "TharkiDev/tadako"
   },
   "license": "MIT",
   "type": "replugged-plugin",
-  "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "renderer": "src/index.ts"
 }

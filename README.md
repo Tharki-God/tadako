@@ -1,11 +1,28 @@
-# Replugged plugin template
+### tadako
 
-See the [plugin development guide](https://guide.replugged.dev/docs/plugins/getting-started) for
-more information on using this template.
+🤭ANITA MAX WYNN💞
 
-# License
+Direct Download Link: [dev.tharki.tadako.asar](https://github.com/TharkiDev/tadako/releases/latest/download/dev.tharki.tadako.asar)
 
-The [plugin template](https://github.com/replugged-org/plugin-template) is licensed under the
-[MIT](https://opensource.org/license/mit/) license. However, addons using this template are not
-necessarily licensed under MIT. Developers are encouraged to add a license file to their repository,
-but if none exists, the repository should be considered as unlicensed.
+Install Link:
+
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=TharkiDev/tadako&source=github)
+
+![tadako](https://cdn.discordapp.com/attachments/1000955966520557689/1194774485254021171/image.png)
+
+
+> ## Disclaimer
+>
+> This Plugin isn't offically supported by replugged.
+>
+>**DO NOT ASK IN REPLUGGED SERVER FOR SUPPORT RELATED TO THIS PLUGIN.**
+>
+> For issues related to plugin either DM the dev or ask in support server listed below.
+>
+>
+> [![Support Server](https://discordapp.com/api/guilds/919649417005506600/widget.png?style=banner3)](https://discord.gg/SgKSKyh9gY)
+
+
+
+
+> For Contributing: [Make a pr thats all.]
