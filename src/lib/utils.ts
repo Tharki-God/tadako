@@ -13,7 +13,9 @@ export const removeLocalMute = (userId: string): void => {
 };
 
 export const hasLocalMute = (userId: string): boolean => {
-  return MediaEngineStore.isLocalMute(userId) && MutedUserSet.has(userId);
+  return (
+    (MediaEngineStore.isLocalMute(userId) && MutedUserSet.has(userId)) || MutedUserSet.has(userId)
+  );
 };
 export const stopLocalMute = (): void => {
   for (const userId of MutedUserSet) {
